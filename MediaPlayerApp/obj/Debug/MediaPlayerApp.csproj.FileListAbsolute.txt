@@ -1,0 +1,15 @@
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\bin\Debug\MediaPlayerApp.exe.config
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\bin\Debug\MediaPlayerApp.exe
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\bin\Debug\MediaPlayerApp.pdb
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.csproj.AssemblyReference.cache
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.csproj.ResolveComReference.cache
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.Form1.resources
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.Properties.Resources.resources
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.csproj.GenerateResource.cache
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.exe
+C:\Users\114\source\repos\MediaPlayerApp\MediaPlayerApp\obj\Debug\MediaPlayerApp.pdb
